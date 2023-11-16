@@ -1,6 +1,7 @@
 # Expense Manager
 
 Expense Manager is a web application designed to help you keep track of your income and expenses, providing a convenient way to manage your financial transactions.
+![image](https://github.com/Akhand2021/expense-manager/assets/104663417/7a718976-b97b-4428-bfad-44386f6d94d1)
 
 ## Features
 
@@ -30,6 +31,6 @@ To run this project locally, clone the repository:
 git clone https://github.com/Akhand2021/expense-manager.git
 
 
-![image](https://github.com/Akhand2021/expense-manager/assets/104663417/7a718976-b97b-4428-bfad-44386f6d94d1)
+
 
 
