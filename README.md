@@ -27,4 +27,4 @@ Check out the live demo of the Expense Manager: [Demo](https://expense.algocoder
 To run this project locally, clone the repository:
 
 ```bash
-git clone <https://github.com/Akhand2021/expense-manager.git>
+git clone https://github.com/Akhand2021/expense-manager.git
