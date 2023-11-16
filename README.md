@@ -29,8 +29,3 @@ To run this project locally, clone the repository:
 
 ```bash
 git clone https://github.com/Akhand2021/expense-manager.git
-
-
-
-
-
